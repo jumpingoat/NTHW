@@ -30,3 +30,4 @@
 25. Jakub Przepióra - [YouTube](https://www.youtube.com/channel/UCJE4aNuiSMo-6daasSfu-0w) / [Linkedin](https://www.linkedin.com/in/jakub-przepiora)
 26. Sumsub - [Website](https://sumsub.com/) / [YouTube](https://www.youtube.com/@Sumsubcom)
 27. Critical Thinking - [YouTube](https://www.youtube.com/@criticalthinkingpodcast)
+28. Adamski CTF - [YouTube](https://www.youtube.com/c/AdamskiCTF)
