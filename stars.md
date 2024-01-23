@@ -15,7 +15,6 @@
 * **Grzegorz Tworek** - [YouTube](https://www.youtube.com/channel/UC57ReegGY3tk69I-bLpjdEw) / [Twitter](https://twitter.com/0gtweet)
 * **Michał Bentkowski** - [Twitter](https://twitter.com/SecurityMB)
 * **NetworkChuck** - [YouTube](https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ) / [Twitter](https://twitter.com/networkchuck) / [Instagram](https://www.instagram.com/networkchuck/)
-* **The PC Security Channel** - [YouTube](https://www.youtube.com/@pcsecuritychannel) / [Discord](https://discord.gg/pakqZeG9)
 * **David Bombal** - [YouTube](https://www.youtube.com/@davidbombal) / [Instagram](https://www.instagram.com/davidbombal/)
 * **Rana Khalil** - [YouTube](https://www.youtube.com/@RanaKhalil101)
 * **IppSec** - [YouTube](https://www.youtube.com/@ippsec) / [Twitter](https://twitter.com/ippsec)
@@ -31,3 +30,4 @@
 * **Sumsub** - [Website](https://sumsub.com/) / [YouTube](https://www.youtube.com/@Sumsubcom)
 * **Critical Thinking** - [YouTube](https://www.youtube.com/@criticalthinkingpodcast)
 * **Adamski CTF** - [YouTube](https://www.youtube.com/c/AdamskiCTF)
+* **OALabs** - [YouTube](https://www.youtube.com/c/OALabs) / [GitHub](https://github.com/OALabs)
