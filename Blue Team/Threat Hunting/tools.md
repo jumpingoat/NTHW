@@ -16,3 +16,8 @@
 11. Phishcheck - [link](https://www.phishcheck.me/)
 12. AIL Framework - [link](https://github.com/CIRCL/AIL-framework)
 13. Docintel - [link](https://docintel.org/)
+14. Yara Toolkit - [link](https://yaratoolkit.securitybreak.io/)
+15. YarGen - [link](https://github.com/Neo23x0/yarGen)
+16. yaraQA - [link](https://github.com/Neo23x0/yaraQA)
+17. YaraDbg - [link](https://yaradbg.dev/)
+18. YARA-L - [link](https://cloud.google.com/chronicle/docs/detection/yara-l-2-0-syntax)

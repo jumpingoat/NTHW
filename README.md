@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/main/.github/banner.png">
 </p>
 
-**There are already 1112 links on our wiki!**
+**There are already 1131 links on our wiki!**
 
 💥 Intro
 -----
@@ -61,6 +61,7 @@ Would you like to actively contribute to the growth of **Not The Hidden Wiki**? 
   - Go: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/main/Programming/Go/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/main/Programming/Go/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/main/Programming/Go/videos.md)
   - Java: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/main/Programming/Java/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/main/Programming/Java/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/main/Programming/Java/videos.md)
   - Python: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/main/Programming/Python/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/main/Programming/Python/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/main/Programming/Python/videos.md)
+  - Rust: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/main/Programming/Rust/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/main/Programming/Rust/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/main/Programming/Rust/videos.md)
 - **DevSecOps**
   - Docker: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/main/DevSecOps/Docker/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/main/DevSecOps/Docker/courses.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/main/DevSecOps/Docker/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/main/DevSecOps/Docker/videos.md)
   - Kubernetes: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/main/DevSecOps/Kubernetes/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/main/DevSecOps/Kubernetes/courses.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/main/DevSecOps/Kubernetes/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/main/DevSecOps/Kubernetes/videos.md)

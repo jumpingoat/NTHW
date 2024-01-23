@@ -47,4 +47,6 @@
 42. Disk recovery software - [link](https://www.r-studio.com/)
 43. Android Forensic - [link](https://github.com/RealityNet/Android-Forensics-References)
 44. MemProcFS-Analyzer - [link](https://github.com/evild3ad/MemProcFS-Analyzer)
-45. Collect-MemoryDump - [link](https://github.com/evild3ad/Collect-MemoryDump) 
+45. Collect-MemoryDump - [link](https://github.com/evild3ad/Collect-MemoryDump)
+46. Velociraptor - [link](https://github.com/Velocidex/velociraptor)
+47. Signal Forensics - [link](https://github.com/AvillaDaniel/Signal-Forensics)
