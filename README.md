@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/main/.github/banner.png">
 </p>
 
-**There are already 1131 links on our wiki!**
+**There are already 1137 links on our wiki!**
 
 💥 Intro
 -----
@@ -66,7 +66,7 @@ Would you like to actively contribute to the growth of **Not The Hidden Wiki**? 
   - Docker: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/main/DevSecOps/Docker/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/main/DevSecOps/Docker/courses.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/main/DevSecOps/Docker/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/main/DevSecOps/Docker/videos.md)
   - Kubernetes: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/main/DevSecOps/Kubernetes/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/main/DevSecOps/Kubernetes/courses.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/main/DevSecOps/Kubernetes/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/main/DevSecOps/Kubernetes/videos.md)
 - **Hardware**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/main/Hardware/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/main/Hardware/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/main/Hardware/videos.md)
-- **Misc**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/main/Misc/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/main/Misc/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/main/Misc/videos.md)
+- **Misc**: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/main/Misc/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/main/Misc/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/main/Misc/videos.md) / [Cyber News](https://github.com/notthehiddenwiki/NTHW/blob/main/Misc/cyber_news.md)
 - **CTF Platforms**: [Link](https://github.com/notthehiddenwiki/NTHW/blob/main/CTF%20Platforms/links.md)
 
 🚀 Milestones
