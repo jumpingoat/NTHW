@@ -74,3 +74,4 @@
 69. vector - [link](https://github.com/theahmadov/vector)
 70. pryingdeep - [link](https://github.com/iudicium/pryingdeep?tab=readme-ov-file)
 71. WaybachPDF - [link](https://github.com/Haax9/WaybackPDF)
+72. Polski OSINT - [link](https://start.me/p/rx4q8r/polski-osint)
