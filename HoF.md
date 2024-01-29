@@ -26,6 +26,7 @@
 * **DawidS** - [Linkedin](https://www.linkedin.com/in/dawid-stuzynski/)
 * **iptom** 
 * **Mrufkojat**
+* **Bryan McNulty** - [Linkedin](https://www.linkedin.com/in/bryanmcnulty/) / [Website](https://bryanmcnulty.com/)
 
 
 **Want to join the list?** Share interesting links. Write to me at: [notthehiddenwiki@firemail.cc](mailto:notthehiddenwiki@firemail.cc)

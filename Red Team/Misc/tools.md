@@ -58,3 +58,5 @@
 53. pwndb: A command-line tool for searching the pwndb database of compromised credentials. - [link](https://github.com/davidtavarez/pwndb)
 54. Pantheon: Insecure Camera Parsing and Intelligence - [link](https://github.com/josh0xA/Pantheon)
 55. VirtualMemAllocMon: too for Monitoring VirtualMemAlloc Event via ETW - [link](https://github.com/DamonMohammadbagher/ETWProcessMon2/tree/main/VirtualMemAllocMon/)
+56. Public Buckets - [link](https://buckets.grayhatwarfare.com/)
+57. Multi-cloud OSINT tool - [link](https://github.com/initstring/cloud_enum)

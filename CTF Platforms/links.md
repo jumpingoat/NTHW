@@ -34,3 +34,6 @@
 29. Learn to Code Blockchain DApps by Building Simple Games - [link](https://cryptozombies.io/)
 30. CodeWars: Achieve mastery through challenge - [link](https://www.codewars.com/)
 31. Sad Servers - [link](https://sadservers.com/)
+32. RHme Challanges 2015 - [link](https://github.com/Riscure/RHme-2015)
+33. RHme Challanges 2016 - [link](https://github.com/Riscure/RHme-2016)
+34. RHme Challanges 2017 - [link](https://github.com/Riscure/RHme-2017)
