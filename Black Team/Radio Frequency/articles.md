@@ -40,3 +40,4 @@
 35. How to copy access cards and keyfobs - [link](https://www.getkisi.com/blog/how-to-copy-access-cards-and-keyfobs)
 36. Hacking our first MIFARE/RFID Tag - [link](https://hackmethod.com/hacking-mifare-rfid-2/?v=9b7d173b068d)
 37. Bluetooth Security Assessment Methodology - [link](https://www.tarlogic.com/bsam/)
+38. Firmware and research tools for Nordic Semiconductor nRF24LU1+ - [link](https://github.com/BastilleResearch/nrf-research-firmware)

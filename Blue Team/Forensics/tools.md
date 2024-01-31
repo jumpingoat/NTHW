@@ -50,3 +50,5 @@
 45. Collect-MemoryDump - [link](https://github.com/evild3ad/Collect-MemoryDump)
 46. Velociraptor - [link](https://github.com/Velocidex/velociraptor)
 47. Signal Forensics - [link](https://github.com/AvillaDaniel/Signal-Forensics)
+48. oletools - python tools to analyze MS OLE2 files - [link](https://github.com/decalage2/oletools)
+49. Powerful Python tool to analyze PDF documents - [link](https://github.com/jesparza/peepdf)

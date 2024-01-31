@@ -37,3 +37,6 @@
 32. RHme Challanges 2015 - [link](https://github.com/Riscure/RHme-2015)
 33. RHme Challanges 2016 - [link](https://github.com/Riscure/RHme-2016)
 34. RHme Challanges 2017 - [link](https://github.com/Riscure/RHme-2017)
+35. Crackmes - [link](https://crackmes.one/)
+36. Cryptopals - [link](https://cryptopals.com/)
+37. ROP Emporium - [link](https://ropemporium.com/)
