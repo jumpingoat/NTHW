@@ -60,3 +60,4 @@
 55. VirtualMemAllocMon: too for Monitoring VirtualMemAlloc Event via ETW - [link](https://github.com/DamonMohammadbagher/ETWProcessMon2/tree/main/VirtualMemAllocMon/)
 56. Public Buckets - [link](https://buckets.grayhatwarfare.com/)
 57. Multi-cloud OSINT tool - [link](https://github.com/initstring/cloud_enum)
+58. Find secrets in repo - [link](https://github.com/trufflesecurity/trufflehog)

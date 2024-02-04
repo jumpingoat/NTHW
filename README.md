@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/notthehiddenwiki/NTHW/main/.github/banner.png">
 </p>
 
-**There are already 1175 links on our wiki!**
+**There are already 1203 links on our wiki!**
 
 💥 Intro
 -----
@@ -26,11 +26,13 @@ Would you like to actively contribute to the growth of **Not The Hidden Wiki**? 
 -----
 
 - [Cybersecurity Stars](https://github.com/notthehiddenwiki/NTHW/blob/main/stars.md)
-- **Notes**: [Link](https://github.com/notthehiddenwiki/NTHW/tree/main/Notes)
+- **Notes**: [Read](https://github.com/notthehiddenwiki/NTHW/tree/main/Notes)
+- **Learning Paths**
+  - Web Application Pentester: [Read](https://github.com/notthehiddenwiki/NTHW/blob/main/Learning%20Paths/web_application_pentester.md) 
 - **Red Team**
   - OSINT: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/main/Red%20Team/OSINT/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/main/Red%20Team/OSINT/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/main/Red%20Team/OSINT/videos.md)
   - Cloud
-    - AWS: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/main/Red%20Team/Cloud/AWS/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/main/Red%20Team/Cloud/AWS/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/main/Red%20Team/Cloud/AWS/videos.md)
+    - AWS: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/main/Red%20Team/Cloud/AWS/articles.md) / [Courses](https://github.com/notthehiddenwiki/NTHW/blob/main/Red%20Team/Cloud/AWS/courses.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/main/Red%20Team/Cloud/AWS/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/main/Red%20Team/Cloud/AWS/videos.md)
     - Azure: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/main/Red%20Team/Cloud/Azure/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/main/Red%20Team/Cloud/Azure/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/main/Red%20Team/Cloud/Azure/videos.md)
     - GCP: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/main/Red%20Team/Cloud/GCP/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/main/Red%20Team/Cloud/GCP/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/main/Red%20Team/Cloud/GCP/videos.md)
   - Blockchain: [Articles](https://github.com/notthehiddenwiki/NTHW/blob/main/Red%20Team/Blockchain/articles.md) / [Tools](https://github.com/notthehiddenwiki/NTHW/blob/main/Red%20Team/Blockchain/tools.md) / [Videos](https://github.com/notthehiddenwiki/NTHW/blob/main/Red%20Team/Blockchain/videos.md)

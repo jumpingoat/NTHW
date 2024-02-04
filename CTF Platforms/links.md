@@ -40,3 +40,6 @@
 35. Crackmes - [link](https://crackmes.one/)
 36. Cryptopals - [link](https://cryptopals.com/)
 37. ROP Emporium - [link](https://ropemporium.com/)
+38. CloudGoat - [link](https://github.com/RhinoSecurityLabs/cloudgoat)
+39. IAM Vulnerable - [link](https://github.com/BishopFox/iam-vulnerable)
+40. SadCloud - [link](https://github.com/nccgroup/sadcloud)
