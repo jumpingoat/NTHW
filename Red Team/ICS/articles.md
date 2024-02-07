@@ -22,6 +22,5 @@
 17. Resources for the Ethical SCADA - [link](https://scadahacker.com/resources.html)
 18. ICS Writeups - [link](https://github.com/neutrinoguy/awesome-ics-writeups)
 19. Industrial Control Systems (In)Security & Suricata - [link](https://suricon.net/wp-content/uploads/2017/12/SuriCon17-Stevens_Browning.pdf)
-20. Awesome ICS/SCADA Writeups - [link](https://github.com/neutrinoguy/awesome-ics-writeups)
+20. Open Source, web-based, multi-platform solution for building your own SCADA - [limk](https://github.com/SCADA-LTS/Scada-LTS)
 21. A curated list of resources related to Industrial Control System (ICS) security - [link](https://github.com/hslatman/awesome-industrial-control-system-security)
-22. Open Source, web-based, multi-platform solution for building your own SCADA - [limk](https://github.com/SCADA-LTS/Scada-LTS)

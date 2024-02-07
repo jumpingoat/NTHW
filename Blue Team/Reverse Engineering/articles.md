@@ -15,3 +15,6 @@
 10. OALABS Research - [link](https://research.openanalysis.net/)
 11. Reversing tool for PE files - [link](https://github.com/hasherezade/pe-bear-releases)
 12. PE files - detects most common packers, cryptors and compilers - [link](https://www.aldeid.com/wiki/PEiD)
+13. Learning Malware Analysis - [link](https://github.com/jstrosch/learning-malware-analysis)
+14. Learning Reverse Engineering - [link](https://github.com/jstrosch/learning-reverse-engineering)
+15. A Blog about Malware Analysis and Reverse Engineering - [link](https://0xevilc0de.com/)
