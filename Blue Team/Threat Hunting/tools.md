@@ -21,3 +21,4 @@
 16. yaraQA - [link](https://github.com/Neo23x0/yaraQA)
 17. YaraDbg - [link](https://yaradbg.dev/)
 18. YARA-L - [link](https://cloud.google.com/chronicle/docs/detection/yara-l-2-0-syntax)
+19. A curated list of awesome YARA rules, tools, and people. - [link](https://github.com/InQuest/awesome-yara)

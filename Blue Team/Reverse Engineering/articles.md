@@ -18,3 +18,4 @@
 13. Learning Malware Analysis - [link](https://github.com/jstrosch/learning-malware-analysis)
 14. Learning Reverse Engineering - [link](https://github.com/jstrosch/learning-reverse-engineering)
 15. A Blog about Malware Analysis and Reverse Engineering - [link](https://0xevilc0de.com/)
+16. List of awesome reverse engineering resources - [link](https://github.com/wtsxDev/reverse-engineering)

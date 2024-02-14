@@ -20,7 +20,6 @@
 15. Hacking DoSing a SCADA site - [link](https://www.hackers-arise.com/post/2016/08/01/SCADA-Hacking-DoSing-a-SCADA-site)
 16. Finding Vulnerable SCADA Systems using Google Hacking - [link](https://www.hackers-arise.com/post/2016/07/05/SCADA-Hacking-Finding-Vulnerable-SCADA-Systems-using-Google-hacking)
 17. Resources for the Ethical SCADA - [link](https://scadahacker.com/resources.html)
-18. ICS Writeups - [link](https://github.com/neutrinoguy/awesome-ics-writeups)
+18. A curated list of resources related to Industrial Control System (ICS) security - [link](https://github.com/hslatman/awesome-industrial-control-system-security)
 19. Industrial Control Systems (In)Security & Suricata - [link](https://suricon.net/wp-content/uploads/2017/12/SuriCon17-Stevens_Browning.pdf)
 20. Open Source, web-based, multi-platform solution for building your own SCADA - [limk](https://github.com/SCADA-LTS/Scada-LTS)
-21. A curated list of resources related to Industrial Control System (ICS) security - [link](https://github.com/hslatman/awesome-industrial-control-system-security)

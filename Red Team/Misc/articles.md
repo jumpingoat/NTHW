@@ -56,3 +56,4 @@
 51. Cyber Security Mindmap - [link](https://github.com/Ignitetechnologies/Mindmap/tree/main)
 52. DYLD — Do You Like Death? (I) - [link](https://karol-mazurek.medium.com/dyld-do-you-like-death-i-8199faad040e?sk=v2%2F359b081f-d944-409b-9e7c-95f7c171b969)
 53. DYLD — Do You Like Death? (II) - [link](https://karol-mazurek.medium.com/dyld-do-you-like-death-ii-b74360b8af47?sk=v2%2Ff0cff71c-5345-4228-a639-653325fc979d)
+54. DYLD — Do You Like Death? (II) - [link](https://karol-mazurek.medium.com/dyld-do-you-like-death-iii-af77701a3034?sk=v2%2F06c92503-2db9-40e2-b139-c9ae0a35e7b3)

@@ -45,7 +45,7 @@
 40. DNS Dumpster - [link](https://dnsdumpster.com/)
 41. Dork search - [link](https://dorksearch.com/)
 42. Global cyberspace mapping - [link](https://en.fofa.info/)
-43. Search public buckets - [link](https://buckets.grayhatwarfare.com/)
+43. Never ever ever use pixelation as a redaction technique - [link](https://github.com/BishopFox/unredacter)
 44. Forum about CVE - [link](https://attackerkb.com/)
 45. Search engine and leaks - [link](https://leakix.net/)
 46. Internet Scanner - [link](https://netlas.io/)

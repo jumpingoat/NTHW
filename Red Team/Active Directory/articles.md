@@ -26,3 +26,4 @@
 21. “Relaying” Kerberos - Having fun with unconstrained delegation - [link](https://dirkjanm.io/krbrelayx-unconstrained-delegation-abuse-toolkit/)
 22. Keeping Up with the NTLM Relay - [link](https://www.fortalicesolutions.com/posts/keeping-up-with-the-ntlm-relay)
 23. Relay - [link](https://www.thehacker.recipes/ad/movement/ntlm/relay)
+24. A cheat sheet that contains common enumeration and attack methods for Windows Active Directory - [link](https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet)

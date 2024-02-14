@@ -14,5 +14,4 @@
 9. MouseJack device discovery and research tools - [link](https://github.com/BastilleResearch/mousejack)
 10. Script for orchestrating mana rogue WiFi Access Points. - [link](https://github.com/sensepost/berate_ap)
 11. An offline Wi-Fi Protected Setup brute-force utility - [link](https://github.com/wiire-a/pixiewps)
-12. Targeted evil twin attacks against WPA2-Enterprise networks. - [link](https://github.com/s0lst1c3/eaphammer)
-13. A collection of Sub-GHz files generators compatible with the Flipper Zero - [link](https://meoker.github.io/pagger/)
+12. A collection of Sub-GHz files generators compatible with the Flipper Zero - [link](https://meoker.github.io/pagger/)

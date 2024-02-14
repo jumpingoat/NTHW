@@ -43,3 +43,4 @@
 38. CloudGoat - [link](https://github.com/RhinoSecurityLabs/cloudgoat)
 39. IAM Vulnerable - [link](https://github.com/BishopFox/iam-vulnerable)
 40. SadCloud - [link](https://github.com/nccgroup/sadcloud)
+41. Damn Vulnerable GraphQL Application - [link](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)
